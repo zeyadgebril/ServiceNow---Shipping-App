@@ -98,7 +98,7 @@ Initiates service requests and monitors their status.
 
 
 ### 🌐 API Base URL (Vessel Tracking 🚢)
-`https://api.myshiptracking.com/api/v2`
+`https://api.myshiptracking.com`
 
 
 | Headers | Type   |
