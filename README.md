@@ -46,8 +46,11 @@ Initiates service requests and monitors their status.
 </div>
 
 
-
-
+<h2 align="center">🔴 Live Map Tracking for Customers</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zeyadgebril/ServiceNow---Shipping-App/refs/heads/master/img/Screenshot%202026-01-10%20002714.png" alt="AIR Tracking" width="48%" style="margin-right:2%">
+  <img src="https://raw.githubusercontent.com/zeyadgebril/ServiceNow---Shipping-App/refs/heads/master/img/Screenshot%202026-01-28%20232121.png" alt="SEA Tracking" width="48%">
+</p>
 
 
 **Automated Status Email**
